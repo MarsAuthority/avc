@@ -5,7 +5,7 @@
 [Vitepress](https://vitepress.vuejs.org) 模板，快速搭建你的静态网站和博客。
 
 ## ✨ 特性
-
+a
 - 📌 开箱即用
 - 🚀 和 [fighting-design](https://github.com/FightingDesign/fighting-design) 完美结合
 - 💪 使用 Vue.js 最新特性开发
